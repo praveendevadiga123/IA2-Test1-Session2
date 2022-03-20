@@ -23,10 +23,27 @@ void output(int a, int b, int c, int iss)
     else
     printf("the triangle is not scalene\n");
 
-}
+k}
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
 
 int main()
-{
+{ 
+  
   int x,y,z,iss;
   x=input_side();
   y=input_side();

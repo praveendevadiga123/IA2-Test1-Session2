@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 
 
@@ -11,7 +12,7 @@ char str_reverse(char *x,char *reverse)
 {
     int n,i;
  for(n=0;x[n];n++);
- n--;
+ 
  for(i=0;x[i];i++)
  {
    reverse[i]=x[n];
