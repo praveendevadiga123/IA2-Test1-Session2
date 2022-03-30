@@ -5,7 +5,8 @@ int input_side()
   int a;
   printf("enter a side of triangle\n");
   scanf("%d",&a);
-  return a;
+  return a; 
+  
 
 }
 int check_scalene(int a, int b, int c,int *iss)
